@@ -10,9 +10,6 @@ import numpy as np
 import math
 
 
-#creating the class
-
-
 class logreg:
     
     def __init__(self):
